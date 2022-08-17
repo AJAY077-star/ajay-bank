@@ -1,5 +1,6 @@
-# the-sparks-foundation
-Sparks Foundation Internship Project : Basic Banking System  
+# Ajay Bank Application : Basic Banking System  
+
+
 A Web Application used to transfer money between multiple users (Project contains 08 dummy users). A new user can also be created.  
 
 Stack used - 
